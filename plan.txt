@@ -1,0 +1,25 @@
+✅ Investigation Engine
+
+✅ Dashboard
+
+✅ Incident Repository
+
+✅ Report Generator
+
+────────────────────────
+
+⬜ Incident Status Management
+
+⬜ Analyst Notes
+
+⬜ Confidence Score
+
+⬜ Attack Chain
+
+⬜ PDF Export
+
+⬜ IOC Search
+
+⬜ Threat Feed
+
+⬜ Final Optimization
